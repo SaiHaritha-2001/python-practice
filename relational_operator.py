@@ -1,0 +1,15 @@
+#for comapring numbers we will use relational operators
+# print(9>10)
+# print(5<10)
+# print(3==3)
+# print(4!=3)
+# print(2<=3)
+# print(4>=4)
+# print(4>4)
+# print("ABC" == "abc")
+# print("ABC" == "BCA")
+# print(True == False)
+# print(False == True)
+# print(True == True)
+# print(False == False)
+#pyhton is case sensitive
